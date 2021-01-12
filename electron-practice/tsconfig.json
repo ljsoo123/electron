@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "sourceMap": true
+  },
+  "include": ["./public/electron.ts"],
+  "exclude": ["node_modules"]
+}
